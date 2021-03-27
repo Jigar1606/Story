@@ -1,1 +1,8 @@
 I am working as a Jr. Mechanical Engineer.
+
+git status : " To check the status of the files in current directory "
+git add chapter1.txt :" To add chapter1.txt in staging area "
+git add . : " To add all the files in current directory to staging area"
+git commit -m "completed chapter 1"    :  "To commit the modified chapter1.txt so that we can track it with message"completed Chapter1""
+git log : " To check time and date when the file is commited"
+git checkout chapter3.txt : "To get the last commited version of chapter3.txt file "
